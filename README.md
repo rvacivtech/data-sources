@@ -14,3 +14,5 @@
 [Search for "Richmond" on ESRI ArcGIS](http://www.arcgis.com/home/search.html?q=richmond&start=1&sortOrder=desc&sortField=relevance)  
 [richmondvagis ArcGIS User](https://www.arcgis.com/home/user.html?user=richmondvagis)  
 [Richmond Parcel Mapper](http://cor.maps.arcgis.com/apps/webappviewer/index.html?id=c3ed34c0fb38441fb95cd2d2d6a22d48/)  
+
+## [Criminal Justice Data](https://github.com/rvacivtech/data-sources/blob/master/criminal-justice.md)  
